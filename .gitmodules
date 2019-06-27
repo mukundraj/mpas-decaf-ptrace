@@ -1,0 +1,8 @@
+[submodule "decaf"]
+	path = decaf
+	url = https://github.com/mukundraj/decaf
+	branch = ptrace
+[submodule "MPAS-Model"]
+	path = MPAS-Model
+	url = https://github.com/mukundraj/MPAS-Model.git
+	branch = v6.0_decaf-hooks
